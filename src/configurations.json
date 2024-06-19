@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "name": "Config Online Scheduling",
+      "icon": "https://img.icons8.com/ios/50/edit"
+    },
+    {
+      "id": 2,
+      "name": "Set Calendar Limit (in months)",
+      "type": "checkbox"
+    }
+  ]
+  
